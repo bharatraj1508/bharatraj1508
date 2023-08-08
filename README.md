@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bharat-info.netlify.app/](https://bharat-info.netlify.app/)
 
-- 💬 Ask me about **ReactJs, AngularJS, NodeJS, ExpressJS ad Java**
+- 💬 Ask me about **ReactJs, AngularJS, NodeJS, ExpressJS and Java**
 
 - 📫 How to reach me **bharat.raj1508@gmail.com**
 
