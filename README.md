@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharat Raj Verma</h1>
-<h3 align="center">A passionate fullstack developer from India. I possess a diverse range of skills and experiences in software development, including proficiency in multiple programming languages and frameworks. I have expertise in working with backend technologies such as NodeJs, ExpressJs and MongoDB and have experience in developing both Android and iOS applications using React Native, Java and Swift.</h3>
+<h3 align="center">A passionate fullstack developer. I possess a diverse range of skills and experiences in software development, including proficiency in multiple programming languages and frameworks. I have expertise in working with backend technologies such as NodeJs, ExpressJs and MongoDB and have experience in developing both Android and iOS applications using React Native, Java and Swift.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatraj1508&label=Profile%20views&color=0e75b6&style=flat" alt="bharatraj1508" /> </p>
 
