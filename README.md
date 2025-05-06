@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/bharatraj1508" target="blank"><img src="https://img.shields.io/twitter/follow/bharatraj1508?logo=twitter&style=for-the-badge" alt="bharatraj1508" /></a> </p>
 
-- 🌱 I’m currently learning **Spring and Spring Boot**
+- 🌱 I’m currently working as a Senior Full Stack developer at Evolvan pvt ltd
 
-- 👨‍💻 All of my projects are available at [https://bharat-info.netlify.app/](https://bharat-info.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://www.bharatrajverma.dev/](https://www.bharatrajverma.dev/)
 
 - 💬 Ask me about **ReactJs, AngularJS, NodeJS, ExpressJS and Java**
 
