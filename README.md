@@ -1,5 +1,8 @@
 # 💫 About Me:
-I’m a Senior Full Stack Developer at Evolvan with strong expertise in building scalable web applications from scratch. I specialize in JavaScript ecosystems, particularly the MERN and MEAN stacks, with a deep focus on backend architecture, API design, authentication systems, and performance optimization.<br>I’ve worked extensively with Next.js, Node.js, PostgreSQL, MongoDB, and modern frontend tooling, and I enjoy designing systems that are clean, maintainable, and production-ready. Beyond just writing code, I think in terms of architecture, scalability, and long-term product vision.<br>
+I’m a Senior Full Stack Developer specializing in building scalable web applications and AI powered software. My experience spans backend architecture, frontend development, and integrating large language models into production systems. I enjoy solving complex engineering challenges by combining technologies like Python, FastAPI, Node.js, React, Next.js, MongoDB, PostgreSQL, and modern AI frameworks to build products that automate workflows and deliver real business value.  
+<br />
+I’ve worked on AI driven SaaS platforms, intelligent search systems, recruitment solutions, and developer tools, with a strong focus on creating reliable, scalable, and user focused applications. I’m passionate about software engineering, artificial intelligence, and continuous learning, and I’m always interested in building products where AI enhances human decision making and creates meaningful impact.
+<br />
 
 
 ## 🌐 Socials:
